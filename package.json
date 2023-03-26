@@ -7,8 +7,15 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
+    "react-art": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react-native": "^0.71.4",
+    "react-native-blur": "^3.2.2",
+    "react-native-blurhash": "^1.1.10",
+    "react-native-web": "^0.18.12",
+    "react-router-dom": "^6.9.0",
+    "react-router-native": "^6.9.0",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
